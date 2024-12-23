@@ -16,6 +16,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\ECLIPSE\J2EE PRACTICE\HIBERNATE"/>
 			<item value="C:\ECLIPSE\J2EE\spring-intro"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -64,6 +65,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="HIBERNATEV1"/>
 			<item value="HIBERNATE"/>
 			<item value="spring-intro-practice"/>
 		</list>
